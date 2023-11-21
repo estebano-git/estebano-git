@@ -1,5 +1,3 @@
-# 👨‍💻 Esteban Ortega
-
 ## 🚀 About me
 
 I am currently finishing my M. Sc. Data Science at the University of Padua, where I am part of the Machine Learning for Intelligent Systems curricula. 
