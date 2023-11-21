@@ -1,13 +1,13 @@
 ## 🚀 About me
 
-I am currently finishing my M. Sc. Data Science at the University of Padua, where I am part of the Machine Learning for Intelligent Systems curricula. 
+I am currently completing my M.Sc. in Data Science at the University of Padua, specializing in the Machine Learning for Intelligent Systems curriculum.
 
-Before starting my masters I had previoulsy worked in Analytics in the Technology and Energy sector.
+Before commencing my master's program, I had previously worked in analytics within the technology and energy sectors.
 
 ## 🔭 Projects
-- Knowledge compilation: Optimal solution solver for the Yashi game with hard and soft constraints using MAX-SAT
-- Statistical learning: Analyzed students' online learning rates, identified struggles, and recommended improvements
-- Deep learning: Developed a Deep Belief Network with PyTorch for multiclass image classification achieving 74% accuracy on 10-shot learning
+- Knowledge Compilation: Developed an optimal solution solver for the Yashi game with hard and soft constraints using MAX-SAT.
+- Statistical Learning: Analyzed students' online learning rates, identified challenges, and recommended improvements.
+- Deep Learning: Created a Deep Belief Network with PyTorch for multiclass image classification, achieving a 74% accuracy on 10-shot learning
 
 
 ## ⚡ Hobbies
