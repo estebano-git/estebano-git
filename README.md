@@ -6,7 +6,7 @@ I am currently finishing my M. Sc. Data Science at the University of Padua, wher
 
 Before starting my masters I had previoulsy worked in Analytics in the Technology and Energy sector.
 
-## 🔭 Data Science Projects
+## 🔭 Projects
 - Knowledge compilation: Optimal solution solver for the Yashi game with hard and soft constraints using MAX-SAT
 - Statistical learning: Analyzed students' online learning rates, identified struggles, and recommended improvements
 - Deep learning: Developed a Deep Belief Network with PyTorch for multiclass image classification achieving 74% accuracy on 10-shot learning
