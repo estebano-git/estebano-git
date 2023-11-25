@@ -5,9 +5,9 @@ I am currently completing my M.Sc. in **Data Science** at the University of Padu
 Before commencing my master's program, I had previously worked in analytics within the technology and energy sectors.
 
 ## 🔭 Projects
-- Knowledge Compilation: Developed an optimal solution solver for the Yashi game with hard and soft constraints using MAX-SAT.
-- Statistical Learning: Analyzed students' online learning rates, identified challenges, and recommended improvements.
-- Deep Learning: Created a Deep Belief Network with PyTorch for multiclass image classification, achieving a 74% accuracy on 10-shot learning
+- Knowledge Compilation: Developed an optimal solution solver for the **Yashi game** with hard and soft constraints using MAX-SAT
+- Statistical Learning: Analyzed **students success factors**, implementing different models, identified challenges, and recommended improvements
+- Deep Learning: Created a **Deep Belief Network** using PyTorch for multiclass image classification, achieving a 74% accuracy on 10-shot learning
 
 
 ## ⚡ Hobbies
