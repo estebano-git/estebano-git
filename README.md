@@ -1,6 +1,6 @@
 ## 🚀 About me
 
-I am currently completing my M.Sc. in Data Science at the University of Padua, specializing in the Machine Learning for Intelligent Systems curriculum.
+I am currently completing my M.Sc. in **Data Science** at the University of Padua, specializing in the **Machine Learning** for Intelligent Systems curriculum.
 
 Before commencing my master's program, I had previously worked in analytics within the technology and energy sectors.
 
