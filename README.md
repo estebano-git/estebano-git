@@ -13,12 +13,6 @@ Before commencing my master's program, I had previously worked in analytics with
 ## ⚡ Hobbies
 - I love the outdoors, especially rock climbing :sunrise_over_mountains:
 
-## 📫 Let's Connect
-
-- [My LinkedIn](https://www.linkedin.com/in/esteban-ortega-dom/)
-
-Don't hesitate to reach out! 🌟
-
 
 <!--
 **estebano-git/estebano-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
